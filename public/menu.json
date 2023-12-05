@@ -1,0 +1,42 @@
+{
+	"data":[
+		{
+			"pathName":"首页",
+			"path":"/dashboard"
+		},
+		{
+			"pathName":"员工",
+			"path":"/employees"
+		},
+		{
+			"pathName":"公司设置",
+			"path":"/setting"
+		},
+		{
+			"pathName":"权限管理",
+			"path":"/permission"
+		},
+		{
+			"pathName":"社保",
+			"path":"/social_securitys"
+		},
+		{
+			"pathName":"审批",
+			"path":"/approvals"
+		},
+		{
+			"pathName":"考勤",
+			"path":"/attendances"
+		},
+		{
+			"pathName":"工资",
+			"path":"/salarys"
+		},
+		{
+			"pathName":"组织架构",
+			"path":"/departments"
+		}
+
+	]
+
+}
